@@ -1,9 +1,10 @@
+#### A not-so-useless function example
 
 #######Function to calculate a BMI
 
 ####Input your weight in kg
 
-weight <- 78
+weight <- 50
 
 ###Input your height in m
 
@@ -25,4 +26,5 @@ if (BMI < 16) {
       print('Maybe skip that one chocolate bar before sleep')
     }
   }
-  
+}
+
